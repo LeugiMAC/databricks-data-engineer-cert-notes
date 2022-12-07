@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "48b927d9a2fcc73f",
+    "type": "split",
+    "children": [
+      {
+        "id": "96ad7584548ea9dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df6080c6f3a56b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databricks/Databricks Certified Data Engineer Associate/Databricks Certified Data Engineer Associate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49777d73a79a0e0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdf3dd57dea0cec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b2e1f266a8348f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5aa88ffee55fdee6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aca044721ee07d48",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a30b387a465de45",
+    "type": "split",
+    "children": [
+      {
+        "id": "75192df497d1cb6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a469f7df40af5c5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Databricks/Databricks Certified Data Engineer Associate/Databricks Certified Data Engineer Associate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d459afb6f4dc38b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Databricks/Databricks Certified Data Engineer Associate/Databricks Certified Data Engineer Associate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a0392b1e7dad082",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19f7aa10d1bf47c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Databricks/Databricks Certified Data Engineer Associate/Databricks Certified Data Engineer Associate.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "df6080c6f3a56b26",
+  "lastOpenFiles": [
+    "Databricks/README.md"
+  ]
+}
