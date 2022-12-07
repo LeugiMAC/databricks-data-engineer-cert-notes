@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databricks/Databricks Certified Data Engineer Associate/Databricks Certified Data Engineer Associate.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databricks/Databricks Certified Data Engineer Associate/Databricks Certified Data Engineer Associate.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databricks/Databricks Certified Data Engineer Associate/Databricks Certified Data Engineer Associate.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databricks/Databricks Certified Data Engineer Associate/Databricks Certified Data Engineer Associate.md"
+                "file": "README.md"
               }
             }
           }
